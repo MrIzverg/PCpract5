@@ -1,1 +1,3 @@
-Сборка через build.bat
+HEAD
+Сборка через build.sh
+ linux-support
